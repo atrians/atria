@@ -1,6 +1,6 @@
 # main text of home
-name: AIT
-bio: Engineering College in the city
+name: John Doe
+bio: A Man who travels the world eating noodles
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://atrians.github.io/atria/
+url: https://koppl.in/indigo
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,12 +34,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: https://www.facebook.com/atria.edu/?fref=ts&ref=br_tf
-twitter: https://twitter.com/atria_institute
+facebook: myfacebook
+twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-  linkedin: https://www.linkedin.com/school/8591519/
+# linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
 github: mygithub
@@ -50,12 +50,12 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: atrians@atria.edu
+email: myemail@gmail.com
 
 authors:
     johndoe:
-        name: Atria Institute of Technology
-        bio: Engineering college in the city
+        name: John Doe
+        bio: A Man who travels the world eating noodles
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
